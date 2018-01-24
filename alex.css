@@ -1,6 +1,3 @@
-p{
-    color: red;
-}
 ul {
     list-style-type: none;
     background-color: grey;
@@ -22,9 +19,4 @@ li a {
 }
 img {
     text-align: center; 
-}
-h1 {
-    color: pink;
-    background-color: red;
-    text-align: center;
 }
